@@ -1,0 +1,26 @@
+.headerPrincipal .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+    ;
+}
+.headerPrincipal-nav{
+    display: flex;
+}
+.rodapePrincipal-patrocinadores .container{
+    display: flex;
+    justify-content: space-between;
+
+}
+.rodapePrincipal-patrocinadores-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 65%;
+}
+.rodapePrincipal-navMap-list{
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    flex-wrap: wrap;
+}
